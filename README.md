@@ -101,11 +101,7 @@ All cleaning is done on the provided dataset only:
    pip install pandas matplotlib
    ```
 3. Put the cleaned CSVs in the same folder as the scripts, or edit the file paths at the top of each script.
-4. Run any chart script, for example:
-   ```
-   python chart3_recovery_matrix_white.py
-   ```
-   Each script displays the chart, saves a PNG, and prints a short summary in the terminal.
+    
 
 ## Limitations
 
@@ -116,9 +112,6 @@ All cleaning is done on the provided dataset only:
 - **Small states can look extreme.** Percentage changes for states with little coal use can swing sharply on small tonnage changes.
 - **Missing data.** Price is missing for many state and sector rows, and the U.S. Electric Power price is missing for 2021.
 
-## Team
-
-SIG x BDAA Invitational, Beginner Track. Add team member names here.
 
 ## Tools Used
 

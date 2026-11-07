@@ -1,0 +1,13 @@
+year,is_preliminary,location_code,location_name,sector_name,sector_group,consumption_tons,receipts_tons,stocks_tons,consumption_mm_tons,receipts_mm_tons,stocks_mm_tons,receipts_minus_consumption_tons,days_of_burn,no_coal_burned,price_usd_per_ton,price_usd_per_mmbtu,heat_btu_per_lb,heat_mmbtu_per_ton,sulfur_pct,ash_pct
+2020,False,US,U.S. Total,Electric Utility,Power,326987204.13,327487913.0,107964767.0,326.987,327.488,107.965,500708.87,120.5,False,37.49,1.967,9531.1,19.0622,1.15,7.75
+2020,False,US,U.S. Total,Independent Power Producers,Power,108839645.0,105627015.0,23465906.0,108.84,105.627,23.466,-3212630.0,78.7,False,31.92,1.741,9169.6,18.3392,1.72,10.64
+2021,False,US,U.S. Total,Electric Utility,Power,374847731.19,338204518.0,75231151.0,374.848,338.205,75.231,-36643213.19,73.3,False,,,9550.05,19.1001,1.14,7.62
+2021,False,US,U.S. Total,Independent Power Producers,Power,126586814.0,116479798.0,16653101.0,126.587,116.48,16.653,-10107016.0,48.0,False,,,9234.65,18.4693,1.79,10.47
+2022,False,US,U.S. Total,Electric Utility,Power,351588976.42,346120368.0,74917384.0,351.589,346.12,74.917,-5468608.42,77.8,False,45.96,2.421,9491.4,18.9828,1.15,7.72
+2022,False,US,U.S. Total,Independent Power Producers,Power,121244729.0,116864423.0,13943199.0,121.245,116.864,13.943,-4380306.0,42.0,False,40.16,2.202,9120.1,18.2402,1.69,10.55
+2023,False,US,U.S. Total,Electric Utility,Power,292614580.74,326208417.0,111524007.0,292.615,326.208,111.524,33593836.26,139.1,False,48.88,2.562,9538.0,19.076,1.15,7.42
+2023,False,US,U.S. Total,Independent Power Producers,Power,94590724.0,98989756.0,21504380.0,94.591,98.99,21.504,4399032.0,83.0,False,40.63,2.308,8802.75,17.6055,1.52,10.78
+2024,False,US,U.S. Total,Electric Utility,Power,286334428.78,277592065.0,105218940.0,286.334,277.592,105.219,-8742363.78,134.1,False,48.93,2.557,9568.4,19.1368,1.2,7.68
+2024,False,US,U.S. Total,Independent Power Producers,Power,86923782.0,85655938.0,22606995.0,86.924,85.656,22.607,-1267844.0,94.9,False,38.37,2.173,8828.1,17.6562,1.54,11.14
+2025,True,US,U.S. Total,Electric Utility,Power,319064164.19,298481362.0,90407066.0,319.064,298.481,90.407,-20582802.19,103.4,False,47.79,2.498,9566.35,19.1327,1.17,7.43
+2025,True,US,U.S. Total,Independent Power Producers,Power,96331346.0,91448958.0,19326115.0,96.331,91.449,19.326,-4882388.0,73.2,False,38.28,2.163,8847.85,17.6957,1.64,11.41
